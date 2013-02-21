@@ -1,0 +1,4 @@
+Srednia wynosi: 1.0
+Wartosc maksymalna wynosi: 2
+Wartosc minimalna wynosi: 0
+Mediana wynosi: 1.0
